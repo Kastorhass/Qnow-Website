@@ -760,7 +760,7 @@ section {
 
 /* Download Section - IMPROVED BUTTONS */
 .download {
-    
+    padding-bottom: 0;
     padding-top: 0;
     background: white;
 }
