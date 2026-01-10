@@ -352,6 +352,8 @@ body {
 .phone-mockup {
     position: relative;
     animation: floatPhone 3s ease-in-out infinite;
+    margin-top: 15%;
+
 }
 
 @keyframes floatPhone {
