@@ -83,21 +83,6 @@ if (contactForm) {
     });
 }
 
-// APK Download functionality
-const apkDownloadBtn = document.getElementById('apkDownload');
-
-if (apkDownloadBtn) {
-    apkDownloadBtn.addEventListener('click', (e) => {
-        e.preventDefault();
-        
-        // You can replace this with the actual APK download URL
-        // For now, it shows an alert
-        alert('APK download will be available soon!  Please check the GitHub repository for releases.');
-        
-        // Optionally redirect to GitHub releases page
-        // window.open('https://github.com/AbderahmaneH/MobDevProject/releases', '_blank');
-    });
-}
 
 // Intersection Observer for scroll animations
 const observerOptions = {
@@ -263,20 +248,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // APK Download functionality
-    const apkDownloadBtn = document.getElementById('apkDownload');
-
-    if (apkDownloadBtn) {
-        apkDownloadBtn.addEventListener('click', (e) => {
-            e. preventDefault();
-            
-            // You can replace this with the actual APK download URL
-            alert('APK download will be available soon!  Please check the GitHub repository for releases.');
-            
-            // Optionally redirect to GitHub releases page
-            // window.open('https://github.com/AbderahmaneH/MobDevProject/releases', '_blank');
-        });
-    }
 
     // Intersection Observer for scroll animations
     const observerOptions = {
