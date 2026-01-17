@@ -5,6 +5,10 @@
 
 > **Revolutionize the way you wait in queues** - A digital solution that eliminates physical waiting, saving time and improving customer experience across Algeria.
 
+## 🌐 Live Demo
+
+The website is hosted at: **[https://qnow.netlify.app/](https://qnow.netlify.app/)**
+
 ## 📋 Table of Contents
 
 - [About](#about)
