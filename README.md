@@ -2,7 +2,6 @@
 
 ![Made in Algeria](https://img.shields.io/badge/Made%20in-Algeria-008000?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 > **Revolutionize the way you wait in queues** - A digital solution that eliminates physical waiting, saving time and improving customer experience across Algeria.
 
@@ -19,7 +18,6 @@
 - [Contact](#contact)
 - [FAQ](#faq)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 About
 
@@ -331,37 +329,10 @@ We welcome contributions from the community! Here's how you can help:
 - Update documentation as needed
 - Write clear commit messages
 
-## 📄 License
 
-This project is licensed under the MIT License - see below for details:
-
-```
-MIT License
-
-Copyright (c) 2025 QNow Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
 
 ## 🙏 Acknowledgments
 
-- Built with ❤️ in Algeria 🇩🇿
 - Developed at ENSIA (École Nationale Supérieure d'Informatique)
 - Powered by Flutter & Supabase
 - Special thanks to all beta testers and early adopters
@@ -390,7 +361,6 @@ SOFTWARE.
 
 <div align="center">
 
-**Made with ❤️ in Algeria 🇩🇿**
 
 [Download App](https://drive.google.com/file/d/1E5EYxiHDR0hgQ1FlBAx6ZuIECtzD3jIV/view?usp=sharing) • [Report Bug](https://github.com/Kastorhass/Qnow-Website/issues) • [Request Feature](https://github.com/Kastorhass/Qnow-Website/issues)
 
